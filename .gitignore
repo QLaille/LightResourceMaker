@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+LRM
+
+# Folders
+xmlsource/*
+resourcedest/*
+
+#Workspace
+.vscode
